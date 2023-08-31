@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arraeofthings</title>
+    <link>https://www.arraeofthings.com/</link>
+    <description>Recent content on Arraeofthings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://www.arraeofthings.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>404</title>
+      <link>https://www.arraeofthings.com/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.arraeofthings.com/404.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statement</title>
+      <link>https://www.arraeofthings.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.arraeofthings.com/about/</guid>
+      <description>arraeofthings Mixed media, illustration
+Arraeofthings is a conduit of versatile approaches to media. Between her illustrative and improvisational expressions, she dances with painting, collage, and installation. Layers of automatism are present in her works, with allusions to aspects of her southern roots.</description>
+    </item>
+    
+  </channel>
+</rss>
