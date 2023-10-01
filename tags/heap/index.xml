@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arraeofthings</title>
-    <link>https://www.arraeofthings.com/</link>
-    <description>Recent content on Arraeofthings</description>
+    <title>heap on Arraeofthings</title>
+    <link>https://www.arraeofthings.com/tags/heap/</link>
+    <description>Recent content in heap on Arraeofthings</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.arraeofthings.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.arraeofthings.com/tags/heap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dwellings On Third</title>
       <link>https://www.arraeofthings.com/dwellingsot/work/</link>
@@ -34,25 +34,6 @@ All rights reserved. © 2023, Arraeofthings.</description>
       <guid>https://www.arraeofthings.com/seedandleech/work/</guid>
       <description>Seed and Leech HEAP Series, 2023. Digital painting 16.5 x 23.4&amp;quot;
 All rights reserved. © 2023, Arraeofthings.</description>
-    </item>
-    
-    <item>
-      <title>404</title>
-      <link>https://www.arraeofthings.com/404.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.arraeofthings.com/404.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statement</title>
-      <link>https://www.arraeofthings.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.arraeofthings.com/about/</guid>
-      <description>arraeofthings Illustration, Mixed media
-Arraeofthings is a conduit of versatile approaches to media. Between her illustrative and improvisational expressions, she dances with painting, collage, and installation. Allusions to aspects of her roots and human dynamics remain prevalent in her works.</description>
     </item>
     
   </channel>
